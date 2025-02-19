@@ -64,5 +64,5 @@ Si la actualización inmediata no es posible, se pueden aplicar las siguientes m
 - [Vulnearabilidad en NVD](https://nvd.nist.gov/vuln/detail/cve-2024-0204)
 - [Debilidad CWE-425](https://cwe.mitre.org/data/definitions/425.html)
 - [Detalles de la vulnerabiliad en CVE.org](https://www.cve.org/CVERecord?id=CVE-2024-0204)
-json de la vulnerabiliad.
+    json de la vulnerabiliad.
 ![img8](img/img8.PNG)

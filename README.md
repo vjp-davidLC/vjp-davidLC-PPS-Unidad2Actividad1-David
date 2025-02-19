@@ -2,14 +2,13 @@
 
 ### Ejercicios para entregar
 
-
 ##### Realiza el trazado de la vulnerabilidad de la que informa [este artículo](https://www.incibe.es/empresas/avisos/vulnerabilidad-critica-de-omision-de-autenticacion-en-goanywhere-mft-de-fortra).
 
 # Vulnerabilidad crítica en GoAnywhere MFT (CVE-2024-0204)
 
 La vulnerabilidad crítica identificada como **CVE-2024-0204** afecta a **GoAnywhere MFT** de Fortra, una solución de transferencia gestionada de archivos utilizada por organizaciones para el intercambio seguro de datos.  
 
-Esta vulnerabilidad permite a un atacante remoto no autenticado crear un usuario administrador a través del portal de administración, comprometiendo potencialmente la confidencialidad, integridad y disponibilidad de los datos gestionados por la plataforma.  
+Esta vulnerabilidad permite a un atacante remoto no autenticado crear un usuario administrador a través del portal de administración, comprometiendo potencialmente la confidencialidad, integridad y disponibilidad de los datos gestionados por la plataforma. 
 
 ## Detalles de la vulnerabilidad:
 
